@@ -10,3 +10,7 @@ fosslight_util>=1.4.1
 fosslight_dependency>=3.7.4
 fosslight_binary>=4.0.7
 fosslight_prechecker>=3.0.1
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.32.2 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
