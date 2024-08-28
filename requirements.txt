@@ -10,3 +10,6 @@ fosslight_util>=1.4.1
 fosslight_dependency>=3.7.4
 fosslight_binary>=4.0.7
 fosslight_prechecker>=3.0.1
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
